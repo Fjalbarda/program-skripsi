@@ -1,0 +1,6 @@
+pillow
+opencv-python
+imgaug
+ultralytics
+gtts
+pygame
